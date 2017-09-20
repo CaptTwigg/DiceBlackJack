@@ -2,7 +2,7 @@ import java.util.*; //for Scanner
 public class DiceJackShort {
 public static int machineLow = 17, playerSum, gameCounter = 0, winCounter = 0, machineWin = 0, winStreak = 0;
 static Scanner console = new Scanner(System.in);
-
+//sick comment right here !
 public static void main(String[] args){
 	game();
 }
